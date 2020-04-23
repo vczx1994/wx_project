@@ -11,5 +11,6 @@
     <text class="user-motto">{{motto}}</text>
     <text class="title">你好，世界</text>
     <button>按钮</button>
+    <view>知识点2</view>
   </view>
 </view>
